@@ -1,4 +1,6 @@
 ![Image text](/img_fldr/6f54b900c738a21838eb53b0f63c5ec8.jpg)
+
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=fklgit123&show_icons=true&theme=radical) 
 <!---
 - 👋 Hi, I’m @fklgit123
 - 👀 I’m interested in ...
